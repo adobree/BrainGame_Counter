@@ -22,9 +22,20 @@ h1 {
   background-color: aqua;
   padding-bottom: 10px;
 }
+.wrapper2 {
+  text-align: center;
+  background-color: grey;
+  padding-bottom: 10px;
+  justify-content: center;
+}
 .counter {
   font-size: 50px;
   font-weight: bold;
+}
+.rounder {
+  font-size: 50px;
+  font-weight: bold;
+  color: #fff;
 }
 .buttonPlusOne {
   padding: 20px 30px;
